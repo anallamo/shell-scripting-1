@@ -2,3 +2,4 @@
 
 #ls
 echo $SHELL
+echo "Test"
